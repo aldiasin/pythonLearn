@@ -14,5 +14,3 @@ print("==PROGRAM KONVERSI SUHU==")
 # #kelvin
 # kelvin = celcius + 273
 # print("suhu ", celcius, " celcius", "dalam kelvin adalah ", kelvin, "kelvin")
-
-opsi = 
